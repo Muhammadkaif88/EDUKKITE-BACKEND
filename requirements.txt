@@ -7,5 +7,6 @@ Pillow>=10.0.0
 django-allauth>=0.59.0
 requests>=2.31.0
 cryptography>=41.0.0
+python-decouple
 gunicorn
 
